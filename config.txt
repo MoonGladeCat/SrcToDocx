@@ -1,0 +1,8 @@
+PROJECT_NAME   = ECID 
+BOARD_TYPE     = SDDM
+DOXYGEN_PATH   = ./bin
+SRC_PATH       = ./src
+DOCX_PATH      = .
+MODULE_NAME    = um_timer.h
+TEMPLATE_DOC   = template.docx
+OUTPUT_DOC     = my.docx
